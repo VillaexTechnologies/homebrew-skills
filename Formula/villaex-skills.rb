@@ -1,7 +1,7 @@
 class VillaexSkills < Formula
   desc "CLI to install Genesis AI skills into your projects"
   homepage "https://skills.villaextechnologies.com"
-  url "https://registry.npmjs.org/@villaex/skills/-/skills-1.0.0.tgz"
+  url "https://github.com/VillaexTechnologies/homebrew-skills/releases/download/v1.0.0/villaex-skills-1.0.0.tgz"
   sha256 "7590f53d4fe66017778d41bb9a9340029b57d9cebb27c6a3489eb6df9e71f906"
   license "MIT"
 
